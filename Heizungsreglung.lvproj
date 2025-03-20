@@ -13,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Heizungsregler.vi" Type="VI" URL="../Heizungsregler.vi"/>
+		<Item Name="Temperatur Anpassen.vi" Type="VI" URL="../Temperatur Anpassen.vi"/>
 		<Item Name="Thermostat Treiber.lvlib" Type="Library" URL="../Treiber Heizung/Thermostat Treiber.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
